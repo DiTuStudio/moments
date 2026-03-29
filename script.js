@@ -1,4 +1,4 @@
-var appName = "Artin: Relaxing Coloring Book";
+var appName = "Moments Countdown - Widget Pro";
 var storeUrl =
     "https://codecanyon.net/item/AI Gen Vision-make-money-flutter-app/44937626";
 var date = "2023-04-11";
